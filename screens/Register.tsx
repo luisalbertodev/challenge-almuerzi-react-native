@@ -94,7 +94,7 @@ const Register = ({ navigation }) => {
 };
 
 Register.navigationOptions = {
-  title: "Iniciar sesión",
+  title: "Registro",
 };
 
 export default Register;
